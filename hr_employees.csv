@@ -1,0 +1,521 @@
+EmployeeID,EmployeeName,Department,JobTitle,EmploymentType,Gender,Age,Location,HireDate,TerminationDate,AnnualSalaryINR,ManagerEmployeeID,EmploymentStatus
+E0001,Neha Rao,Marketing,Engineer,Full-time,Prefer not to say,35,Bengaluru,2020-12-31,,538919,,Active
+E0002,Siddharth Kumar,Sales,Director,Full-time,Female,25,Delhi,2021-05-19,2022-11-01,448264,E0001,Terminated
+E0003,Diya Bose,Operations,Coordinator,Part-time,Non-binary,58,Bengaluru,2022-06-15,,644259,E0001,On Leave
+E0004,Farhan Mehta,Operations,Senior Analyst,Full-time,Non-binary,49,Pune,2024-07-22,,473921,E0002,Active
+E0005,Naveen Das,HR,Senior Engineer,Full-time,Male,21,Noida,2025-07-02,2025-12-03,1684510,E0003,Terminated
+E0006,Riya Menon,Engineering,Senior Analyst,Full-time,Non-binary,25,Bengaluru,2024-06-18,,1192471,,Active
+E0007,Akash Nair,Engineering,Senior Engineer,Full-time,Male,33,Noida,2024-02-04,,572276,E0001,Active
+E0008,Ananya Dubey,Marketing,Associate,Full-time,Female,23,Mumbai,2026-02-15,,1448009,,Active
+E0009,Naveen Shah,Product,Senior Engineer,Part-time,Male,35,Bengaluru,2021-03-11,,1352677,E0001,Active
+E0010,Parth Jain,Finance,Director,Full-time,Male,47,Mumbai,2022-11-02,,434352,E0008,Active
+E0011,Mansi Mukherjee,Engineering,Senior Analyst,Full-time,Prefer not to say,41,Delhi,2025-03-14,,693722,E0004,Active
+E0012,Sneha Kumar,Marketing,Coordinator,Full-time,Prefer not to say,22,Dehradun,2024-05-14,,1461649,,Active
+E0013,Varun Mishra,Sales,Specialist,Contract,Prefer not to say,56,Hyderabad,2023-08-14,,481516,E0003,Active
+E0014,Rohan Nair,Finance,Senior Analyst,Full-time,Male,47,Noida,2023-07-19,,876180,E0010,Active
+E0015,Aanya Pandey,Operations,Engineer,Full-time,Male,51,Delhi,2021-10-15,,377646,E0013,Active
+E0016,Abhishek Bisht,Engineering,Manager,Full-time,Female,52,Hyderabad,2021-03-13,,1735595,E0010,Active
+E0017,Pallavi Khanna,Engineering,Senior Engineer,Full-time,Female,21,Mumbai,2024-07-26,,699927,E0014,Active
+E0018,Chirag Nair,Finance,Coordinator,Part-time,Non-binary,29,Bengaluru,2021-01-04,2021-06-08,1363574,E0005,Terminated
+E0019,Nikhil Patel,Operations,Director,Full-time,Male,54,Delhi,2024-04-20,,557617,E0005,Active
+E0020,Priya Rao,Engineering,Associate,Full-time,Female,50,Chandigarh,2021-08-24,2023-04-24,984279,E0016,Terminated
+E0021,Vivek Khanna,HR,Senior Engineer,Full-time,Prefer not to say,44,Hyderabad,2026-08-05,,1136970,E0010,Active
+E0022,Akash Pillai,Sales,Analyst,Full-time,Prefer not to say,22,Bengaluru,2020-03-25,,358409,E0020,Active
+E0023,Siddharth Sinha,Sales,Coordinator,Full-time,Non-binary,23,Dehradun,2020-02-20,,865825,E0017,Active
+E0024,Swati Kulkarni,Operations,Director,Full-time,Prefer not to say,23,Mumbai,2024-02-25,,1569083,E0004,Active
+E0025,Madhav Reddy,Operations,Senior Analyst,Full-time,Prefer not to say,51,Pune,2023-07-31,,518466,E0004,Active
+E0026,Isha Patel,Engineering,Manager,Part-time,Female,43,Chandigarh,2020-09-27,,735489,E0014,Active
+E0027,Anjali Mishra,Operations,Senior Engineer,Full-time,Non-binary,28,Chandigarh,2026-02-06,,1699846,E0013,Active
+E0028,Bhavna Menon,Finance,Senior Engineer,Full-time,Non-binary,55,Dehradun,2020-12-31,,757176,E0008,Active
+E0029,Ritika Banerjee,Engineering,Engineer,Full-time,Male,58,Noida,2023-04-17,,356434,E0028,Active
+E0030,Kavya Mukherjee,Customer Success,Manager,Full-time,Prefer not to say,33,Mumbai,2023-01-16,2024-01-12,1471164,E0007,Terminated
+E0031,Shreya Singh,Marketing,Director,Full-time,Non-binary,46,Dehradun,2026-03-04,2026-10-16,755658,E0004,Terminated
+E0032,Aditya Dubey,Engineering,Senior Analyst,Full-time,Male,22,Pune,2021-08-22,,751276,E0010,Active
+E0033,Imran Rawat,Engineering,Specialist,Full-time,Female,47,Pune,2023-03-18,,1486637,,Active
+E0034,Varun Negi,Marketing,Specialist,Full-time,Female,53,Delhi,2025-05-23,,735108,E0017,Active
+E0035,Monika Iyer,Engineering,Associate,Full-time,Male,49,Pune,2026-02-15,,493234,,Active
+E0036,Neha Arora,Engineering,Engineer,Contract,Non-binary,57,Dehradun,2026-04-27,,342064,,On Leave
+E0037,Reyansh Verma,Engineering,Engineer,Full-time,Prefer not to say,56,Bengaluru,2020-02-24,,911753,E0027,Active
+E0038,Manish Arora,Engineering,Specialist,Full-time,Female,29,Noida,2023-09-15,,1475247,E0018,Active
+E0039,Ayesha Malhotra,HR,Team Lead,Full-time,Non-binary,55,Dehradun,2026-06-06,2026-10-18,762237,E0021,Terminated
+E0040,Diya Sinha,Engineering,Engineer,Full-time,Male,29,Pune,2025-10-25,,1015877,E0003,Active
+E0041,Ishaan Bose,Operations,Director,Full-time,Male,33,Bengaluru,2023-05-19,,824507,,Active
+E0042,Amit Verma,Sales,Engineer,Full-time,Prefer not to say,25,Chandigarh,2023-07-21,,1051264,E0013,Active
+E0043,Simran Kulkarni,Marketing,Specialist,Full-time,Prefer not to say,24,Noida,2023-08-06,,1061701,E0033,Active
+E0044,Sara Patel,Marketing,Associate,Full-time,Non-binary,43,Noida,2023-07-08,,792630,E0034,Active
+E0045,Pooja Mehta,HR,Senior Analyst,Full-time,Prefer not to say,24,Mumbai,2023-02-12,,802879,E0023,Active
+E0046,Ananya Sinha,Marketing,Team Lead,Full-time,Prefer not to say,58,Bengaluru,2025-11-23,,744994,,Active
+E0047,Juhi Singh,Customer Success,Specialist,Full-time,Male,51,Delhi,2024-12-02,,1150587,E0012,Active
+E0048,Akash Chopra,Sales,Manager,Full-time,Non-binary,57,Bengaluru,2025-07-18,,1360888,E0005,Active
+E0049,Sara Khanna,Customer Success,Analyst,Full-time,Female,31,Noida,2021-09-30,2022-02-13,1259602,E0001,Terminated
+E0050,Saurabh Khanna,Operations,Analyst,Full-time,Male,23,Hyderabad,2020-08-30,,705446,E0049,Active
+E0051,Akash Mukherjee,Operations,Specialist,Full-time,Male,33,Hyderabad,2023-07-27,2023-11-30,868578,E0042,Terminated
+E0052,Aarav Bansal,Sales,Engineer,Full-time,Prefer not to say,43,Dehradun,2023-07-16,,440362,E0010,Active
+E0053,Saurabh Jain,Sales,Analyst,Contract,Male,51,Mumbai,2020-11-13,,844078,E0013,Active
+E0054,Divya Bose,Operations,Team Lead,Full-time,Non-binary,34,Dehradun,2023-11-19,,706401,E0052,Terminated
+E0055,Karthik Dubey,Operations,Specialist,Full-time,Male,52,Noida,2025-12-27,,499742,E0040,Active
+E0056,Pranav Yadav,Sales,Director,Part-time,Non-binary,24,Dehradun,2026-05-27,2026-08-19,327389,,Terminated
+E0057,Sara Kohli,Sales,Coordinator,Full-time,Female,44,Pune,2023-05-24,,1672733,,Active
+E0058,Sakshi Menon,Operations,Team Lead,Full-time,Non-binary,23,Bengaluru,2025-02-06,,375966,E0007,Terminated
+E0059,Sara Shetty,Engineering,Senior Analyst,Full-time,Prefer not to say,26,Noida,2021-04-18,2025-07-13,1277024,E0051,Terminated
+E0060,Anjali Bansal,HR,Coordinator,Full-time,Non-binary,51,Chandigarh,2023-03-25,,1203443,E0005,On Leave
+E0061,Ira Arora,Product,Engineer,Full-time,Male,34,Mumbai,2020-06-28,,319732,E0029,Active
+E0062,Rakesh Khanna,Finance,Associate,Full-time,Male,46,Chandigarh,2023-03-22,2024-04-27,905553,E0032,Terminated
+E0063,Ritika Chauhan,Marketing,Engineer,Full-time,Male,29,Noida,2020-11-05,,501951,,Active
+E0064,Neha Yadav,Customer Success,Specialist,Contract,Male,43,Delhi,2021-05-08,,337485,E0043,Active
+E0065,Dev Bansal,Engineering,Senior Analyst,Contract,Female,21,Chandigarh,2020-01-02,,646406,,Active
+E0066,Chirag Rao,Product,Associate,Full-time,Prefer not to say,44,Mumbai,2023-08-31,,755649,E0041,Active
+E0067,Yash Singh,Finance,Analyst,Full-time,Non-binary,29,Pune,2021-06-12,,710228,E0038,Active
+E0068,Isha Sinha,Operations,Associate,Full-time,Non-binary,53,Delhi,2020-07-19,,336080,E0012,On Leave
+E0069,Deepak Desai,Marketing,Senior Analyst,Full-time,Non-binary,25,Hyderabad,2020-02-14,,408325,E0006,Active
+E0070,Aanya Chatterjee,Finance,Team Lead,Full-time,Female,29,Bengaluru,2024-04-09,,598095,E0009,Active
+E0071,Swati Bose,Engineering,Coordinator,Full-time,Non-binary,56,Dehradun,2020-06-15,,641405,,Active
+E0072,Vivek Rawat,Sales,Engineer,Full-time,Non-binary,26,Pune,2021-03-16,,1590556,E0028,Active
+E0073,Nandini Ghosh,Engineering,Team Lead,Full-time,Prefer not to say,32,Hyderabad,2025-11-14,,682073,E0009,Active
+E0074,Aarohi Patel,Sales,Director,Full-time,Prefer not to say,37,Delhi,2024-04-16,,484733,,Active
+E0075,Vikram Pillai,Product,Director,Part-time,Female,44,Delhi,2022-12-27,,1630201,E0073,Active
+E0076,Anirudh Patel,Sales,Team Lead,Full-time,Prefer not to say,22,Chandigarh,2025-03-30,,1552442,E0007,Active
+E0077,Fatima Dubey,Engineering,Team Lead,Full-time,Male,25,Chandigarh,2021-09-05,2022-02-15,1373808,E0041,Terminated
+E0078,Diya Gupta,Sales,Specialist,Contract,Male,39,Mumbai,2023-06-07,,694802,E0041,Active
+E0079,Zoya Sinha,Engineering,Team Lead,Full-time,Prefer not to say,43,Bengaluru,2020-11-09,,1507929,E0027,Active
+E0080,Yash Kapoor,Product,Associate,Part-time,Prefer not to say,58,Mumbai,2021-10-05,,327063,E0034,Active
+E0081,Shalini Das,Engineering,Engineer,Full-time,Prefer not to say,21,Mumbai,2022-08-18,,321867,E0036,Active
+E0082,Nikhil Ghosh,Engineering,Director,Full-time,Non-binary,41,Dehradun,2023-06-27,,773586,E0048,Active
+E0083,Yash Gupta,Finance,Manager,Full-time,Prefer not to say,41,Chandigarh,2021-06-20,,826764,E0040,Terminated
+E0084,Gaurav Shah,Marketing,Senior Engineer,Full-time,Male,33,Noida,2026-05-10,,679943,E0066,Active
+E0085,Tara Bansal,Finance,Senior Engineer,Full-time,Non-binary,41,Delhi,2020-04-21,,733687,E0046,Active
+E0086,Saurabh Sethi,Customer Success,Senior Analyst,Full-time,Male,43,Dehradun,2025-01-25,2026-08-11,1273909,,Terminated
+E0087,Mohit Bisht,Marketing,Analyst,Full-time,Male,42,Hyderabad,2025-07-15,2026-07-19,1507032,E0027,Terminated
+E0088,Pranav Singh,Operations,Coordinator,Full-time,Non-binary,28,Delhi,2025-04-24,,1740246,E0056,Active
+E0089,Pooja Verma,HR,Coordinator,Full-time,Female,29,Hyderabad,2021-03-18,,346097,E0062,Active
+E0090,Anirudh Menon,Engineering,Senior Engineer,Full-time,Female,51,Mumbai,2024-04-07,2024-12-01,374313,E0076,Terminated
+E0091,Zoya Ghosh,Sales,Senior Analyst,Full-time,Male,32,Delhi,2025-05-02,,807581,E0007,Active
+E0092,Deepak Sharma,Marketing,Coordinator,Full-time,Male,24,Hyderabad,2022-12-30,,685746,,Active
+E0093,Harsh Mishra,Sales,Manager,Full-time,Prefer not to say,29,Pune,2023-02-15,,1483553,E0003,Terminated
+E0094,Parth Chauhan,Product,Manager,Contract,Non-binary,33,Pune,2022-01-25,2025-08-06,1142088,,Terminated
+E0095,Ishaan Kohli,Customer Success,Analyst,Full-time,Female,41,Noida,2020-02-20,,378255,E0028,Active
+E0096,Tara Negi,Operations,Coordinator,Full-time,Non-binary,22,Chandigarh,2025-09-12,,504667,E0018,Active
+E0097,Rahul Iyer,Engineering,Team Lead,Full-time,Female,29,Hyderabad,2024-12-26,2025-03-19,592863,E0037,Terminated
+E0098,Ayesha Thakur,Engineering,Engineer,Full-time,Non-binary,33,Delhi,2023-02-16,,729898,E0005,Active
+E0099,Shweta Shah,Operations,Coordinator,Full-time,Non-binary,40,Hyderabad,2020-01-19,,577586,,Active
+E0100,Farhan Shah,Operations,Manager,Full-time,Non-binary,28,Dehradun,2025-03-17,,420077,E0017,Active
+E0101,Divya Kumar,Engineering,Analyst,Full-time,Male,43,Mumbai,2023-11-11,,520481,E0010,Terminated
+E0102,Kavya Pillai,Product,Engineer,Full-time,Non-binary,40,Bengaluru,2026-04-01,,1198156,E0058,Active
+E0103,Ankit Khanna,Sales,Team Lead,Full-time,Male,38,Chandigarh,2025-01-02,,651544,E0018,Active
+E0104,Tanvi Nair,Engineering,Senior Analyst,Full-time,Male,50,Noida,2022-12-21,,566747,E0085,Active
+E0105,Madhav Nair,Operations,Associate,Full-time,Female,58,Hyderabad,2020-02-29,2026-01-01,778591,,Terminated
+E0106,Shreya Khanna,Sales,Associate,Full-time,Female,49,Dehradun,2020-05-12,2023-11-08,487813,E0080,Terminated
+E0107,Bhavna Iyer,Engineering,Coordinator,Part-time,Male,24,Bengaluru,2022-04-09,,473723,E0092,Active
+E0108,Amit Arora,Sales,Analyst,Full-time,Prefer not to say,34,Chandigarh,2025-11-08,,840459,E0090,Active
+E0109,Vikram Yadav,Marketing,Manager,Full-time,Prefer not to say,39,Dehradun,2020-10-14,,1350794,E0103,Active
+E0110,Kabir Kohli,Marketing,Coordinator,Full-time,Male,29,Dehradun,2023-08-06,,442922,E0017,Active
+E0111,Dev Sinha,Engineering,Senior Engineer,Full-time,Non-binary,35,Bengaluru,2023-03-15,,1074085,E0109,Active
+E0112,Rakesh Pandey,Engineering,Analyst,Full-time,Male,36,Pune,2024-12-23,,651130,E0008,Active
+E0113,Anushka Ghosh,Engineering,Manager,Full-time,Female,49,Chandigarh,2022-09-03,,1637422,E0022,Active
+E0114,Isha Shetty,Marketing,Analyst,Full-time,Male,52,Mumbai,2021-05-02,,770287,E0027,Active
+E0115,Vikram Agarwal,Marketing,Manager,Full-time,Male,49,Delhi,2022-08-10,,1746891,E0072,Active
+E0116,Omar Yadav,Operations,Senior Analyst,Full-time,Prefer not to say,38,Pune,2025-07-31,,1014211,E0068,Active
+E0117,Bhavna Kashyap,Engineering,Engineer,Full-time,Non-binary,25,Hyderabad,2021-10-20,,320557,E0026,Active
+E0118,Ayesha Kohli,Engineering,Coordinator,Full-time,Male,44,Hyderabad,2026-03-16,,551085,E0069,Active
+E0119,Abhishek Chopra,Engineering,Engineer,Full-time,Male,28,Delhi,2021-04-23,,1706697,E0022,Active
+E0120,Abhishek Bhatia,HR,Coordinator,Full-time,Prefer not to say,29,Hyderabad,2021-12-21,2022-11-26,472170,E0020,Terminated
+E0121,Ankit Mukherjee,Engineering,Specialist,Part-time,Male,30,Bengaluru,2026-03-16,,986797,E0033,Active
+E0122,Suresh Saxena,Product,Associate,Full-time,Non-binary,24,Delhi,2020-02-21,,1330794,E0074,Active
+E0123,Akash Patel,Engineering,Senior Analyst,Full-time,Prefer not to say,45,Bengaluru,2020-01-07,,1720159,,Active
+E0124,Yash Chatterjee,HR,Analyst,Full-time,Prefer not to say,51,Hyderabad,2021-10-19,,859438,E0098,Active
+E0125,Ira Kumar,Operations,Coordinator,Full-time,Prefer not to say,21,Noida,2023-12-27,,341204,E0100,Active
+E0126,Vivaan Mehta,Engineering,Team Lead,Contract,Non-binary,26,Chandigarh,2023-01-22,2023-06-03,864738,E0068,Terminated
+E0127,Rakesh Arora,Engineering,Senior Analyst,Full-time,Female,24,Dehradun,2022-12-03,,565037,E0094,Active
+E0128,Dev Kapoor,Finance,Team Lead,Contract,Non-binary,21,Dehradun,2024-04-15,2025-10-25,695459,E0073,Terminated
+E0129,Anushka Desai,Customer Success,Specialist,Full-time,Female,32,Delhi,2022-05-05,,528798,E0020,Active
+E0130,Dev Thakur,Operations,Director,Full-time,Male,54,Hyderabad,2021-09-23,,1194551,E0129,Terminated
+E0131,Shalini Patel,Sales,Senior Analyst,Full-time,Male,36,Hyderabad,2021-12-28,2024-05-03,364830,E0107,Terminated
+E0132,Rohan Thakur,Marketing,Coordinator,Full-time,Prefer not to say,26,Bengaluru,2023-12-18,,730390,E0069,Active
+E0133,Anushka Sinha,Marketing,Analyst,Contract,Male,55,Chandigarh,2021-02-26,2023-05-08,546953,E0114,Terminated
+E0134,Pallavi Arora,Engineering,Team Lead,Full-time,Male,44,Bengaluru,2024-11-09,,947697,E0061,Active
+E0135,Anjali Shah,Sales,Coordinator,Full-time,Male,56,Bengaluru,2026-09-28,,803326,E0043,Active
+E0136,Yash Tripathi,Marketing,Engineer,Contract,Prefer not to say,51,Chandigarh,2024-01-20,,679971,E0095,Active
+E0137,Anirudh Bhatia,Engineering,Coordinator,Full-time,Prefer not to say,26,Chandigarh,2020-06-28,,1243448,E0026,Active
+E0138,Naveen Gupta,Engineering,Director,Full-time,Prefer not to say,55,Hyderabad,2025-05-09,,615852,,Active
+E0139,Neha Khanna,Operations,Specialist,Full-time,Male,47,Delhi,2023-03-16,,451275,E0059,Active
+E0140,Pooja Thakur,Finance,Analyst,Contract,Prefer not to say,43,Mumbai,2021-12-06,2025-06-13,490696,,Terminated
+E0141,Lakshmi Bisht,Customer Success,Engineer,Full-time,Female,25,Dehradun,2022-09-25,,617552,E0100,Active
+E0142,Chirag Yadav,Operations,Associate,Full-time,Prefer not to say,50,Chandigarh,2022-01-06,,520242,E0024,Active
+E0143,Manish Mishra,HR,Associate,Full-time,Prefer not to say,23,Bengaluru,2026-07-05,,1694623,E0138,Active
+E0144,Vivek Bose,Product,Manager,Full-time,Non-binary,51,Mumbai,2022-12-04,,1067333,E0081,Active
+E0145,Kunal Pillai,Sales,Specialist,Full-time,Non-binary,58,Pune,2020-08-29,2023-05-06,331771,E0133,Terminated
+E0146,Nikhil Verma,Marketing,Manager,Full-time,Male,48,Mumbai,2020-09-13,,581699,E0008,Active
+E0147,Harsh Tripathi,Product,Associate,Full-time,Female,52,Mumbai,2022-09-19,,873524,E0143,Active
+E0148,Arjun Iyer,Marketing,Manager,Full-time,Non-binary,38,Pune,2025-01-17,,1206761,E0071,Active
+E0149,Aman Chatterjee,Sales,Associate,Full-time,Non-binary,44,Chandigarh,2021-04-27,,357967,E0105,Active
+E0150,Abhishek Khanna,HR,Director,Full-time,Male,57,Chandigarh,2022-05-11,,1338242,E0108,Active
+E0151,Nitin Singh,Marketing,Senior Analyst,Full-time,Female,30,Chandigarh,2020-05-17,,722517,E0015,Terminated
+E0152,Nikhil Bansal,Engineering,Associate,Full-time,Female,47,Mumbai,2022-07-30,,554347,E0078,Terminated
+E0153,Farhan Agarwal,Marketing,Specialist,Contract,Non-binary,55,Bengaluru,2022-06-25,,1042120,,Active
+E0154,Sakshi Thakur,Operations,Coordinator,Full-time,Prefer not to say,41,Pune,2025-07-30,,684686,E0153,Active
+E0155,Vivaan Das,Sales,Manager,Full-time,Female,25,Noida,2025-09-14,2025-11-25,1718709,E0018,Terminated
+E0156,Swati Reddy,Sales,Director,Full-time,Non-binary,37,Dehradun,2023-10-29,2024-03-25,991234,E0061,Terminated
+E0157,Reyansh Sinha,Sales,Analyst,Full-time,Non-binary,53,Delhi,2023-03-28,2024-08-30,1366574,E0086,Terminated
+E0158,Sneha Rao,Sales,Senior Analyst,Full-time,Non-binary,40,Bengaluru,2021-08-04,,1213177,E0133,Active
+E0159,Shreya Tripathi,Finance,Director,Full-time,Male,25,Hyderabad,2023-05-21,,679704,,Active
+E0160,Sara Menon,Sales,Manager,Full-time,Female,27,Delhi,2024-01-17,2025-09-25,797734,E0152,Terminated
+E0161,Yash Mehta,Operations,Senior Analyst,Full-time,Male,58,Mumbai,2020-12-09,,757815,E0145,Active
+E0162,Mansi Reddy,Finance,Senior Analyst,Full-time,Female,27,Noida,2023-05-13,,362229,E0104,Active
+E0163,Amit Tripathi,Operations,Team Lead,Full-time,Prefer not to say,35,Bengaluru,2023-01-27,,494708,E0118,Active
+E0164,Fatima Bisht,Finance,Senior Analyst,Full-time,Female,35,Noida,2024-07-29,,570640,E0010,Active
+E0165,Sanjay Chauhan,Finance,Coordinator,Part-time,Prefer not to say,33,Dehradun,2025-01-14,,1093830,,Terminated
+E0166,Isha Joshi,Engineering,Analyst,Full-time,Male,37,Chandigarh,2024-12-22,,1287358,E0115,Active
+E0167,Omar Kulkarni,Sales,Senior Analyst,Full-time,Female,27,Bengaluru,2021-05-06,,1161673,E0104,Active
+E0168,Nikhil Gupta,Customer Success,Director,Full-time,Female,23,Bengaluru,2022-07-24,,1004754,E0053,Active
+E0169,Nikhil Saxena,Marketing,Analyst,Full-time,Non-binary,46,Pune,2026-05-06,,1009650,E0003,Terminated
+E0170,Vivek Bhatia,Sales,Associate,Full-time,Prefer not to say,41,Delhi,2024-02-16,,1236637,E0020,Active
+E0171,Imran Dubey,Engineering,Team Lead,Full-time,Male,52,Dehradun,2024-03-08,,753915,E0110,Active
+E0172,Aarav Das,HR,Coordinator,Full-time,Male,53,Mumbai,2020-09-18,2022-01-30,651068,E0012,Terminated
+E0173,Dev Kulkarni,Engineering,Associate,Full-time,Female,53,Hyderabad,2026-01-06,,501143,E0128,Active
+E0174,Vikram Pawar,Sales,Analyst,Full-time,Female,44,Mumbai,2022-09-16,,1610542,,Active
+E0175,Rajesh Kashyap,Marketing,Team Lead,Full-time,Male,27,Pune,2025-08-25,,361595,,Terminated
+E0176,Vivek Reddy,Operations,Manager,Full-time,Female,24,Pune,2020-07-20,,522204,,Active
+E0177,Kavya Chopra,Sales,Coordinator,Full-time,Male,52,Hyderabad,2023-06-18,,556165,,Active
+E0178,Nitin Agarwal,Engineering,Associate,Full-time,Female,37,Mumbai,2025-10-19,2026-01-12,321531,E0053,Terminated
+E0179,Bhavna Pawar,Operations,Manager,Full-time,Male,22,Mumbai,2020-03-24,2026-07-08,422456,E0088,Terminated
+E0180,Ankit Jain,Engineering,Director,Full-time,Female,24,Dehradun,2023-10-24,2026-04-29,1443034,E0030,Terminated
+E0181,Fatima Menon,Sales,Senior Analyst,Full-time,Male,47,Pune,2021-02-04,,1739627,,Active
+E0182,Yash Jain,Engineering,Senior Analyst,Full-time,Prefer not to say,43,Delhi,2021-02-14,2026-09-01,659001,,Terminated
+E0183,Dev Malhotra,Sales,Senior Analyst,Full-time,Male,51,Mumbai,2023-05-08,,1284055,E0091,Active
+E0184,Ishaan Sharma,Engineering,Associate,Full-time,Female,40,Chandigarh,2021-11-09,2024-07-17,1000487,E0070,Terminated
+E0185,Pranav Malhotra,Sales,Analyst,Full-time,Prefer not to say,48,Dehradun,2023-01-07,,378568,E0095,Active
+E0186,Lakshmi Sharma,Engineering,Senior Engineer,Full-time,Female,45,Mumbai,2024-11-05,,837281,E0051,Active
+E0187,Shreya Pillai,Operations,Analyst,Full-time,Prefer not to say,32,Pune,2025-04-10,,329896,,Active
+E0188,Sara Dubey,Customer Success,Senior Engineer,Full-time,Non-binary,43,Dehradun,2022-03-05,,317127,E0036,Terminated
+E0189,Tanvi Arora,Customer Success,Director,Full-time,Female,46,Bengaluru,2021-01-28,,796350,E0118,Active
+E0190,Zoya Pandey,Operations,Associate,Contract,Female,22,Chandigarh,2026-06-27,,406758,E0144,Active
+E0191,Sneha Iyer,Product,Director,Full-time,Male,51,Mumbai,2025-09-08,2026-06-21,1003868,E0052,Terminated
+E0192,Pallavi Bose,Finance,Specialist,Full-time,Non-binary,37,Mumbai,2022-03-12,,594101,,Active
+E0193,Nitin Das,Finance,Specialist,Full-time,Male,52,Chandigarh,2025-11-19,,598908,E0099,Active
+E0194,Aarohi Kapoor,Sales,Associate,Full-time,Female,39,Hyderabad,2026-05-27,,1708909,E0011,Active
+E0195,Aman Verma,Product,Team Lead,Full-time,Female,31,Delhi,2021-05-06,,332166,E0067,Active
+E0196,Juhi Pillai,Customer Success,Specialist,Full-time,Female,28,Delhi,2020-10-09,2022-10-06,1359039,E0022,Terminated
+E0197,Ishaan Bansal,Sales,Analyst,Contract,Non-binary,38,Chandigarh,2021-06-13,,1597527,E0100,On Leave
+E0198,Ayesha Yadav,Engineering,Senior Analyst,Full-time,Female,26,Noida,2020-09-12,,963117,E0037,Active
+E0199,Aditi Kohli,Product,Senior Analyst,Part-time,Male,34,Chandigarh,2022-06-01,,692647,E0081,Active
+E0200,Sanjay Bose,Engineering,Coordinator,Contract,Female,49,Pune,2023-10-20,,700196,E0025,Terminated
+E0201,Pranav Gupta,Finance,Associate,Full-time,Non-binary,52,Delhi,2021-01-07,,464294,,On Leave
+E0202,Parth Sethi,Product,Director,Full-time,Male,24,Pune,2026-01-16,2026-03-28,422498,E0143,Terminated
+E0203,Omar Pillai,Operations,Senior Engineer,Full-time,Prefer not to say,40,Pune,2024-10-23,,713230,E0002,Active
+E0204,Ayesha Mehta,Operations,Analyst,Full-time,Male,25,Dehradun,2025-07-20,2026-05-01,325954,,Terminated
+E0205,Bhavna Ghosh,HR,Senior Analyst,Full-time,Prefer not to say,22,Mumbai,2024-11-16,,819823,E0039,Active
+E0206,Parth Pandey,Finance,Team Lead,Part-time,Prefer not to say,51,Bengaluru,2020-11-19,2026-01-21,851647,E0004,Terminated
+E0207,Kunal Bhatia,Sales,Senior Analyst,Full-time,Non-binary,28,Bengaluru,2023-03-30,,812534,E0035,Active
+E0208,Aditya Bose,Operations,Team Lead,Full-time,Prefer not to say,27,Delhi,2021-07-26,,873675,E0028,Terminated
+E0209,Arjun Tripathi,Product,Senior Engineer,Full-time,Male,27,Pune,2020-02-02,2022-10-18,315481,E0182,Terminated
+E0210,Rohan Bose,Customer Success,Coordinator,Full-time,Prefer not to say,29,Dehradun,2024-05-25,,565095,E0026,Active
+E0211,Ishaan Kashyap,Product,Senior Analyst,Full-time,Male,47,Dehradun,2020-04-01,,1146671,E0145,Active
+E0212,Aditya Bhatia,Product,Senior Engineer,Contract,Prefer not to say,45,Bengaluru,2025-05-07,2025-08-20,342946,E0038,Terminated
+E0213,Sanjay Gupta,Operations,Analyst,Full-time,Female,57,Pune,2022-06-13,,622072,E0051,Active
+E0214,Sanjay Negi,Sales,Associate,Full-time,Male,50,Mumbai,2024-03-22,,590387,,Terminated
+E0215,Rajesh Shetty,Operations,Senior Engineer,Part-time,Non-binary,39,Pune,2024-08-24,,345337,E0203,Active
+E0216,Priya Bose,Operations,Coordinator,Full-time,Non-binary,50,Bengaluru,2021-07-28,,992261,E0143,Active
+E0217,Nikhil Bhatia,Engineering,Coordinator,Full-time,Non-binary,56,Pune,2020-02-04,,485917,E0100,Active
+E0218,Riya Shetty,Sales,Team Lead,Full-time,Female,29,Delhi,2022-05-09,,530079,E0205,Active
+E0219,Pooja Pandey,Engineering,Associate,Part-time,Male,26,Chandigarh,2020-03-02,,374292,E0049,Active
+E0220,Aarav Bhatia,Finance,Director,Part-time,Non-binary,28,Chandigarh,2026-02-18,,1680924,E0145,Active
+E0221,Mansi Arora,Operations,Analyst,Full-time,Non-binary,43,Dehradun,2020-02-09,,470007,E0165,Active
+E0222,Aditi Ghosh,Sales,Associate,Full-time,Prefer not to say,33,Delhi,2021-08-05,,551688,E0141,Active
+E0223,Omar Rawat,Sales,Manager,Contract,Female,24,Dehradun,2021-02-16,2023-11-26,515882,,Terminated
+E0224,Samar Agarwal,Engineering,Specialist,Full-time,Female,35,Noida,2025-05-09,,538119,,Terminated
+E0225,Pallavi Yadav,Engineering,Team Lead,Full-time,Female,23,Noida,2020-03-15,,970697,,Active
+E0226,Ibrahim Tripathi,HR,Associate,Full-time,Male,27,Dehradun,2022-02-09,,1171425,E0162,Active
+E0227,Arjun Bansal,Engineering,Specialist,Full-time,Non-binary,54,Bengaluru,2021-01-28,,513217,E0130,Active
+E0228,Sanjay Reddy,Engineering,Director,Full-time,Male,25,Mumbai,2022-09-28,,763036,,On Leave
+E0229,Ritika Yadav,Product,Analyst,Full-time,Non-binary,30,Pune,2021-10-09,,1250172,E0022,Terminated
+E0230,Deepak Thakur,Product,Specialist,Full-time,Female,25,Delhi,2022-05-07,,432923,E0039,Active
+E0231,Manish Agarwal,Marketing,Senior Engineer,Full-time,Male,30,Chandigarh,2020-08-20,,405598,E0205,Terminated
+E0232,Swati Pillai,Sales,Senior Analyst,Full-time,Non-binary,25,Bengaluru,2026-05-16,,451798,E0140,Active
+E0233,Shreya Yadav,Marketing,Senior Engineer,Full-time,Female,45,Mumbai,2025-10-03,,711544,E0088,Active
+E0234,Sara Arora,Engineering,Specialist,Full-time,Female,31,Dehradun,2022-02-03,,510965,E0040,Active
+E0235,Sanjay Mishra,Engineering,Team Lead,Full-time,Non-binary,22,Dehradun,2026-05-06,,600976,E0074,Active
+E0236,Sakshi Reddy,Sales,Director,Full-time,Male,21,Pune,2024-05-21,,532980,E0117,On Leave
+E0237,Reyansh Khanna,Marketing,Specialist,Full-time,Female,47,Delhi,2024-03-13,,344677,E0112,Active
+E0238,Anirudh Pawar,HR,Senior Analyst,Full-time,Male,35,Hyderabad,2020-08-16,,1303710,,Active
+E0239,Meera Sethi,Finance,Associate,Full-time,Prefer not to say,39,Pune,2026-01-19,,654087,E0192,Active
+E0240,Pranav Kapoor,HR,Specialist,Full-time,Male,55,Delhi,2020-06-12,,1182838,E0023,Active
+E0241,Anirudh Kapoor,Marketing,Senior Engineer,Part-time,Non-binary,42,Pune,2025-06-22,,772454,E0164,Active
+E0242,Manish Dubey,Customer Success,Senior Engineer,Contract,Prefer not to say,47,Delhi,2021-10-31,2026-02-14,429248,E0230,Terminated
+E0243,Abhishek Mukherjee,Sales,Associate,Full-time,Non-binary,31,Pune,2022-10-26,,384764,E0003,Active
+E0244,Bhavna Banerjee,Product,Associate,Full-time,Non-binary,23,Noida,2020-06-13,,1006137,E0082,Active
+E0245,Pooja Banerjee,Sales,Manager,Full-time,Prefer not to say,53,Hyderabad,2025-05-25,,345934,E0034,Active
+E0246,Arjun Yadav,Sales,Coordinator,Full-time,Male,33,Dehradun,2023-03-11,,580212,E0055,Active
+E0247,Ritu Rawat,Sales,Team Lead,Full-time,Prefer not to say,33,Noida,2024-10-17,,936368,E0142,Active
+E0248,Payal Singh,Product,Associate,Full-time,Male,53,Chandigarh,2024-10-24,,413791,E0243,On Leave
+E0249,Reyansh Shetty,Operations,Engineer,Full-time,Female,25,Noida,2025-01-15,,1088805,E0173,Terminated
+E0250,Sakshi Shetty,Sales,Specialist,Full-time,Prefer not to say,21,Pune,2024-10-06,,590303,E0243,Active
+E0251,Payal Chatterjee,Operations,Associate,Full-time,Prefer not to say,28,Mumbai,2022-11-06,,1322697,E0115,On Leave
+E0252,Vikram Singh,Sales,Senior Engineer,Full-time,Prefer not to say,57,Bengaluru,2020-11-18,,433475,E0220,Active
+E0253,Parth Malhotra,Sales,Manager,Full-time,Male,56,Delhi,2026-04-02,2026-06-03,363112,E0162,Terminated
+E0254,Naveen Kohli,Customer Success,Director,Full-time,Female,39,Mumbai,2021-07-07,,351863,E0146,On Leave
+E0255,Dev Banerjee,Marketing,Senior Analyst,Full-time,Non-binary,22,Bengaluru,2021-09-18,,792992,E0091,Active
+E0256,Yash Chopra,Product,Specialist,Full-time,Prefer not to say,33,Noida,2023-01-23,,751865,E0176,Active
+E0257,Naveen Kulkarni,Engineering,Team Lead,Full-time,Female,36,Delhi,2021-03-15,,794798,,Active
+E0258,Chirag Saxena,Finance,Senior Engineer,Full-time,Non-binary,29,Bengaluru,2022-11-13,,544626,E0030,Terminated
+E0259,Anirudh Kulkarni,Marketing,Director,Contract,Female,39,Hyderabad,2025-02-26,2025-12-19,485886,E0048,Terminated
+E0260,Aman Reddy,Marketing,Coordinator,Full-time,Prefer not to say,41,Noida,2025-03-07,2026-10-10,588959,E0014,Terminated
+E0261,Kavya Patel,Marketing,Coordinator,Full-time,Non-binary,49,Noida,2024-12-13,,544773,E0241,Active
+E0262,Aarav Rawat,Marketing,Team Lead,Full-time,Non-binary,57,Pune,2021-02-25,,539010,E0062,Terminated
+E0263,Zoya Singh,Marketing,Specialist,Part-time,Female,42,Pune,2024-08-01,,468775,,Active
+E0264,Aditya Pillai,Finance,Engineer,Full-time,Male,32,Delhi,2021-05-23,2024-04-12,1658393,E0062,Terminated
+E0265,Tanvi Shah,Engineering,Coordinator,Contract,Male,24,Dehradun,2020-10-04,,945902,E0162,On Leave
+E0266,Meera Gupta,Sales,Manager,Full-time,Non-binary,52,Noida,2025-10-30,,642843,,Active
+E0267,Vikram Kumar,Sales,Engineer,Full-time,Non-binary,38,Pune,2024-10-15,,1638639,E0102,Active
+E0268,Dev Mehta,Marketing,Senior Analyst,Full-time,Male,33,Hyderabad,2025-12-08,,630839,E0091,Active
+E0269,Diya Kohli,Finance,Analyst,Full-time,Prefer not to say,28,Mumbai,2024-03-10,,319010,,Active
+E0270,Suresh Joshi,Product,Director,Contract,Female,37,Delhi,2021-09-28,,617043,E0128,Active
+E0271,Tanvi Ghosh,Operations,Engineer,Full-time,Female,44,Hyderabad,2025-09-22,,412459,E0040,Active
+E0272,Riya Kashyap,Engineering,Senior Engineer,Full-time,Prefer not to say,43,Hyderabad,2024-02-18,2025-12-18,425715,E0077,Terminated
+E0273,Radhika Banerjee,Customer Success,Manager,Full-time,Non-binary,43,Bengaluru,2020-03-30,,492031,E0147,Active
+E0274,Anirudh Das,Sales,Team Lead,Full-time,Male,56,Noida,2021-07-02,,517709,E0198,Active
+E0275,Shweta Rawat,Finance,Specialist,Full-time,Male,45,Dehradun,2020-10-08,,558234,E0001,Active
+E0276,Karthik Singh,Sales,Senior Engineer,Full-time,Male,38,Chandigarh,2026-02-25,,1201521,,Active
+E0277,Kunal Sethi,Customer Success,Specialist,Full-time,Non-binary,52,Chandigarh,2025-10-09,,1265005,E0203,Active
+E0278,Yamini Pillai,Operations,Senior Analyst,Full-time,Male,56,Pune,2022-12-01,,916662,E0244,Active
+E0279,Dev Kumar,Customer Success,Senior Analyst,Part-time,Non-binary,39,Chandigarh,2022-12-21,,854992,E0009,Active
+E0280,Farhan Desai,Customer Success,Specialist,Full-time,Non-binary,49,Pune,2021-01-26,2026-09-08,637086,E0115,Terminated
+E0281,Chirag Kashyap,Engineering,Team Lead,Contract,Male,43,Hyderabad,2021-08-22,,568499,E0039,On Leave
+E0282,Anushka Yadav,Marketing,Associate,Full-time,Female,29,Bengaluru,2022-04-24,2025-05-10,1299682,E0033,Terminated
+E0283,Diya Chatterjee,Marketing,Manager,Part-time,Male,47,Dehradun,2025-01-09,,843636,E0150,Active
+E0284,Varun Kashyap,Operations,Specialist,Full-time,Non-binary,43,Mumbai,2023-01-21,,1561389,,Active
+E0285,Sanjay Sinha,Operations,Specialist,Full-time,Male,40,Chandigarh,2022-11-26,,597650,E0065,Active
+E0286,Saurabh Patel,Marketing,Analyst,Full-time,Male,53,Chandigarh,2020-08-15,,1253728,E0245,On Leave
+E0287,Shalini Rawat,HR,Associate,Full-time,Prefer not to say,52,Mumbai,2023-02-16,2025-10-09,505285,E0156,Terminated
+E0288,Siddharth Joshi,Customer Success,Manager,Full-time,Non-binary,23,Pune,2023-03-18,2023-10-21,1031144,E0071,Terminated
+E0289,Lakshmi Arora,Operations,Engineer,Part-time,Female,56,Chandigarh,2021-07-24,,356992,E0007,Active
+E0290,Rohan Kumar,Marketing,Engineer,Full-time,Non-binary,32,Chandigarh,2021-01-14,2025-05-18,438825,,Terminated
+E0291,Vivek Kashyap,Customer Success,Specialist,Contract,Non-binary,48,Noida,2024-03-19,,519713,E0006,Active
+E0292,Shweta Chauhan,Sales,Team Lead,Full-time,Female,45,Noida,2026-02-02,,1713979,E0025,Active
+E0293,Siddharth Mehta,Engineering,Analyst,Full-time,Male,48,Pune,2022-08-23,,1207581,,Active
+E0294,Sanjay Mukherjee,Sales,Team Lead,Full-time,Female,51,Chandigarh,2021-09-18,,447611,E0191,Active
+E0295,Ritu Shah,Sales,Associate,Full-time,Non-binary,48,Bengaluru,2026-06-10,,315086,E0288,Terminated
+E0296,Ritu Chopra,Operations,Coordinator,Full-time,Non-binary,51,Bengaluru,2022-06-30,,352144,E0235,Active
+E0297,Ayesha Iyer,Sales,Director,Full-time,Female,53,Mumbai,2023-12-24,,691257,E0220,Active
+E0298,Meera Nair,Finance,Analyst,Full-time,Female,28,Hyderabad,2020-03-22,,422875,E0258,Terminated
+E0299,Chirag Tripathi,Engineering,Director,Part-time,Female,34,Delhi,2020-05-15,2024-05-11,466466,E0023,Terminated
+E0300,Shivani Tripathi,Engineering,Team Lead,Full-time,Prefer not to say,44,Bengaluru,2020-07-04,,478264,E0071,Active
+E0301,Omar Pawar,Sales,Engineer,Full-time,Male,57,Dehradun,2022-11-04,2025-10-09,620581,E0278,Terminated
+E0302,Vivek Kulkarni,Marketing,Director,Full-time,Non-binary,29,Pune,2023-08-23,,600026,E0119,Active
+E0303,Meera Thakur,Marketing,Associate,Full-time,Male,43,Dehradun,2023-06-10,,802910,E0147,Active
+E0304,Dev Verma,Operations,Director,Full-time,Non-binary,54,Delhi,2024-05-14,2026-04-17,994072,E0177,Terminated
+E0305,Mohit Desai,Marketing,Senior Analyst,Full-time,Female,53,Chandigarh,2026-09-06,,1505169,,Active
+E0306,Anjali Nair,Sales,Manager,Full-time,Female,21,Noida,2022-02-14,,1210480,E0074,Active
+E0307,Fatima Jain,HR,Senior Engineer,Full-time,Prefer not to say,52,Hyderabad,2020-09-12,,988496,,Active
+E0308,Fatima Verma,Sales,Associate,Part-time,Female,42,Noida,2022-02-04,,753280,,Active
+E0309,Pooja Pillai,Operations,Director,Full-time,Female,42,Pune,2026-06-20,,327985,,Terminated
+E0310,Yamini Mishra,HR,Senior Analyst,Full-time,Male,35,Pune,2025-06-16,,1708210,E0307,Active
+E0311,Suresh Bisht,Sales,Senior Analyst,Full-time,Male,44,Pune,2023-05-26,,1167825,E0298,Active
+E0312,Ankit Pandey,Operations,Team Lead,Full-time,Female,24,Delhi,2020-09-24,,776223,E0008,Active
+E0313,Mansi Banerjee,Marketing,Coordinator,Full-time,Non-binary,41,Mumbai,2022-10-26,,337855,E0127,Active
+E0314,Karthik Reddy,Marketing,Engineer,Full-time,Non-binary,52,Bengaluru,2022-09-15,2026-02-27,351490,E0180,Terminated
+E0315,Aman Khanna,Engineering,Analyst,Full-time,Male,46,Bengaluru,2022-07-10,,840603,E0057,Active
+E0316,Sanjay Verma,Customer Success,Director,Full-time,Prefer not to say,35,Hyderabad,2022-10-01,2025-06-08,1011302,E0274,Terminated
+E0317,Madhav Joshi,Sales,Engineer,Full-time,Non-binary,45,Chandigarh,2021-06-08,,433820,,Active
+E0318,Arjun Patel,HR,Associate,Full-time,Female,47,Delhi,2023-11-04,,1449537,E0179,Active
+E0319,Neha Chauhan,Marketing,Senior Engineer,Full-time,Male,48,Chandigarh,2021-12-19,,756351,E0004,Active
+E0320,Rajesh Bhatia,Operations,Team Lead,Contract,Non-binary,54,Hyderabad,2024-05-27,,585424,E0176,Active
+E0321,Arjun Tiwari,Engineering,Director,Full-time,Male,50,Pune,2023-01-17,,724085,E0305,Active
+E0322,Yash Bansal,Operations,Senior Engineer,Contract,Male,32,Bengaluru,2026-09-16,,377000,,Active
+E0323,Divya Chatterjee,Engineering,Manager,Full-time,Female,25,Noida,2020-09-10,,1180231,,Active
+E0324,Nandini Chopra,Finance,Specialist,Full-time,Female,31,Pune,2025-11-05,2026-04-24,904061,E0157,Terminated
+E0325,Monika Singh,Marketing,Analyst,Full-time,Female,26,Delhi,2022-03-12,,1468795,E0263,Terminated
+E0326,Aditi Kumar,Finance,Engineer,Full-time,Prefer not to say,39,Bengaluru,2022-10-24,,869054,E0092,Active
+E0327,Pranav Verma,Engineering,Coordinator,Full-time,Non-binary,58,Delhi,2025-05-18,,607558,E0019,Active
+E0328,Rahul Malhotra,HR,Senior Engineer,Full-time,Prefer not to say,39,Delhi,2022-04-11,2025-06-28,754014,E0124,Terminated
+E0329,Kabir Mishra,Operations,Engineer,Full-time,Non-binary,56,Pune,2026-04-07,,374977,E0324,Active
+E0330,Deepak Joshi,Marketing,Associate,Full-time,Prefer not to say,25,Chandigarh,2026-01-16,,1370398,,Active
+E0331,Riya Sinha,Engineering,Director,Full-time,Prefer not to say,45,Dehradun,2020-07-12,,902925,E0286,Active
+E0332,Sara Malhotra,Marketing,Engineer,Full-time,Non-binary,34,Hyderabad,2024-03-02,,979721,,Active
+E0333,Reyansh Chauhan,Marketing,Senior Analyst,Part-time,Prefer not to say,22,Dehradun,2020-09-19,,695954,E0012,Active
+E0334,Kavya Chauhan,Sales,Team Lead,Full-time,Prefer not to say,28,Dehradun,2025-10-08,,771036,,Active
+E0335,Fatima Kulkarni,Engineering,Specialist,Full-time,Female,45,Pune,2020-03-16,,712730,E0333,Active
+E0336,Siddharth Reddy,Engineering,Senior Analyst,Part-time,Non-binary,25,Noida,2026-02-16,,926431,,On Leave
+E0337,Samar Bisht,Operations,Associate,Full-time,Male,46,Hyderabad,2022-06-09,2022-11-05,351388,E0297,Terminated
+E0338,Bhavna Bose,Sales,Analyst,Full-time,Male,37,Mumbai,2023-12-04,,970463,E0324,Active
+E0339,Nikhil Pillai,Engineering,Associate,Full-time,Prefer not to say,29,Noida,2025-09-22,,494854,E0174,Active
+E0340,Yash Patel,Operations,Senior Analyst,Full-time,Female,27,Pune,2022-09-20,,317236,E0130,Terminated
+E0341,Farhan Khanna,Operations,Director,Contract,Non-binary,42,Dehradun,2023-11-18,,496687,E0117,Active
+E0342,Aarav Mukherjee,Operations,Team Lead,Full-time,Non-binary,58,Pune,2021-10-05,,803736,,On Leave
+E0343,Ritu Arora,Customer Success,Specialist,Full-time,Prefer not to say,38,Hyderabad,2021-07-07,,338732,E0220,Active
+E0344,Rahul Chatterjee,Sales,Team Lead,Full-time,Female,23,Pune,2022-07-08,,840398,E0119,On Leave
+E0345,Yash Menon,Product,Engineer,Full-time,Prefer not to say,28,Dehradun,2022-03-28,,772887,,Active
+E0346,Vikram Menon,Engineering,Senior Analyst,Full-time,Prefer not to say,43,Mumbai,2021-11-14,,438823,E0008,Active
+E0347,Chirag Iyer,Customer Success,Engineer,Full-time,Prefer not to say,30,Hyderabad,2022-10-11,,1330827,E0183,Active
+E0348,Neha Malhotra,Customer Success,Senior Engineer,Part-time,Non-binary,26,Bengaluru,2020-11-22,,383446,E0258,Active
+E0349,Manish Singh,Marketing,Director,Full-time,Male,43,Hyderabad,2021-07-12,2022-04-05,374372,E0335,Terminated
+E0350,Riya Tiwari,Sales,Manager,Full-time,Male,22,Hyderabad,2022-10-22,2025-05-15,687133,E0173,Terminated
+E0351,Shweta Nair,Sales,Associate,Part-time,Non-binary,22,Bengaluru,2024-03-29,,360992,,Active
+E0352,Aanya Nair,Customer Success,Director,Full-time,Non-binary,35,Mumbai,2022-09-13,,1226027,E0152,Active
+E0353,Radhika Kapoor,Operations,Senior Analyst,Full-time,Prefer not to say,40,Hyderabad,2024-08-15,2025-01-15,714930,E0275,Terminated
+E0354,Isha Tripathi,Customer Success,Senior Engineer,Contract,Prefer not to say,28,Dehradun,2023-04-22,,1066200,,Active
+E0355,Amit Tiwari,Engineering,Engineer,Full-time,Prefer not to say,29,Bengaluru,2026-04-08,,753644,E0180,Active
+E0356,Deepak Kulkarni,Sales,Coordinator,Full-time,Female,37,Delhi,2020-01-20,,1373609,E0071,Active
+E0357,Monika Kapoor,Sales,Analyst,Full-time,Non-binary,27,Dehradun,2020-04-13,2023-08-16,846106,,Terminated
+E0358,Parth Menon,Engineering,Manager,Part-time,Male,55,Mumbai,2022-12-23,,1711443,E0319,Terminated
+E0359,Omar Sharma,Sales,Team Lead,Full-time,Non-binary,55,Chandigarh,2021-10-16,,361354,E0258,Active
+E0360,Ananya Singh,Operations,Engineer,Full-time,Non-binary,30,Pune,2023-09-24,2026-08-23,607074,E0166,Terminated
+E0361,Sara Ghosh,HR,Director,Full-time,Non-binary,49,Delhi,2022-04-22,,595676,E0051,On Leave
+E0362,Yash Rawat,Sales,Manager,Part-time,Prefer not to say,47,Mumbai,2023-01-28,2025-03-29,1134588,E0277,Terminated
+E0363,Aarav Malhotra,HR,Specialist,Full-time,Non-binary,41,Hyderabad,2020-05-31,,1484315,E0253,Active
+E0364,Payal Sinha,Sales,Team Lead,Contract,Non-binary,40,Delhi,2026-02-10,,335365,,On Leave
+E0365,Anirudh Malhotra,Finance,Coordinator,Full-time,Female,42,Mumbai,2026-02-07,,768979,E0268,Active
+E0366,Juhi Ghosh,Product,Engineer,Full-time,Non-binary,45,Pune,2022-12-01,,802457,E0084,Active
+E0367,Simran Mukherjee,Product,Analyst,Full-time,Non-binary,56,Chandigarh,2026-07-14,,352213,E0111,Active
+E0368,Amit Pillai,Sales,Engineer,Full-time,Female,37,Chandigarh,2022-05-22,,626976,E0117,Active
+E0369,Isha Desai,Engineering,Director,Full-time,Prefer not to say,21,Bengaluru,2025-11-06,2026-02-10,712948,E0321,Terminated
+E0370,Isha Jain,Sales,Team Lead,Full-time,Male,48,Delhi,2023-01-25,,1719661,,Terminated
+E0371,Shweta Negi,Product,Team Lead,Full-time,Prefer not to say,40,Hyderabad,2022-08-03,,757077,E0057,Active
+E0372,Priya Verma,Marketing,Coordinator,Full-time,Non-binary,43,Bengaluru,2024-11-13,,503628,E0023,Active
+E0373,Ibrahim Joshi,Operations,Team Lead,Full-time,Male,23,Delhi,2025-09-17,,651578,E0308,Active
+E0374,Kunal Reddy,Marketing,Specialist,Full-time,Female,54,Dehradun,2024-01-20,,744994,E0291,Active
+E0375,Arjun Bose,Product,Engineer,Full-time,Male,50,Dehradun,2020-07-23,,1721927,E0093,Active
+E0376,Gaurav Kohli,Finance,Specialist,Contract,Male,28,Dehradun,2024-09-25,,1244923,,On Leave
+E0377,Nikhil Bisht,Sales,Coordinator,Full-time,Prefer not to say,57,Mumbai,2024-09-04,,602034,E0300,Active
+E0378,Fatima Iyer,Sales,Director,Full-time,Non-binary,51,Mumbai,2022-09-12,,632992,E0025,Active
+E0379,Ira Bose,Sales,Director,Full-time,Male,28,Hyderabad,2021-12-20,,1156048,,Active
+E0380,Akash Kapoor,Customer Success,Coordinator,Full-time,Female,23,Delhi,2024-07-23,,1204865,E0375,On Leave
+E0381,Aanya Pillai,Operations,Engineer,Full-time,Non-binary,27,Delhi,2023-10-20,,1241932,,Active
+E0382,Varun Pandey,Marketing,Director,Full-time,Non-binary,48,Pune,2021-12-19,2025-10-15,445972,E0161,Terminated
+E0383,Sanjay Pillai,Sales,Senior Analyst,Contract,Female,44,Delhi,2022-02-15,2025-05-27,835056,E0204,Terminated
+E0384,Pallavi Bansal,Product,Senior Engineer,Full-time,Non-binary,46,Delhi,2023-07-10,2024-04-07,759131,E0225,Terminated
+E0385,Tara Joshi,Customer Success,Analyst,Full-time,Male,23,Mumbai,2025-10-22,,481610,E0139,Active
+E0386,Yamini Pandey,HR,Engineer,Part-time,Male,22,Mumbai,2021-07-10,,600671,E0187,Active
+E0387,Zoya Kohli,Finance,Manager,Full-time,Non-binary,43,Mumbai,2022-04-26,2023-10-17,861222,E0136,Terminated
+E0388,Shweta Chatterjee,Engineering,Senior Engineer,Full-time,Prefer not to say,25,Pune,2025-05-08,,418494,E0348,Active
+E0389,Gaurav Shetty,Operations,Director,Full-time,Male,34,Delhi,2023-03-10,,383798,E0140,Active
+E0390,Madhav Shetty,Engineering,Team Lead,Full-time,Prefer not to say,44,Hyderabad,2020-08-26,,1313205,E0031,Active
+E0391,Zoya Mishra,Engineering,Engineer,Full-time,Female,36,Delhi,2022-03-23,,383580,E0204,Active
+E0392,Aanya Chopra,Sales,Senior Engineer,Full-time,Male,39,Bengaluru,2022-01-02,2022-05-28,375328,E0038,Terminated
+E0393,Anirudh Chauhan,Engineering,Analyst,Full-time,Female,38,Dehradun,2025-01-31,,1007626,,Terminated
+E0394,Tanvi Pandey,Customer Success,Senior Engineer,Full-time,Non-binary,36,Mumbai,2022-10-02,,519420,E0145,Active
+E0395,Shweta Jain,Sales,Associate,Full-time,Male,45,Pune,2022-02-18,,1342839,E0350,Active
+E0396,Ira Rao,Engineering,Specialist,Contract,Non-binary,47,Chandigarh,2023-07-23,,684724,,Active
+E0397,Arjun Kohli,Operations,Engineer,Full-time,Male,44,Dehradun,2021-04-19,2021-12-21,424363,,Terminated
+E0398,Divya Bisht,Customer Success,Team Lead,Full-time,Female,46,Noida,2025-07-10,,1313939,E0167,Active
+E0399,Payal Nair,HR,Associate,Contract,Female,48,Pune,2022-11-29,,654420,E0385,Active
+E0400,Yamini Joshi,Sales,Senior Engineer,Full-time,Female,43,Delhi,2026-07-12,,373816,E0357,Active
+E0401,Shreya Negi,Marketing,Senior Analyst,Full-time,Male,58,Hyderabad,2026-05-14,,746646,,Active
+E0402,Aarohi Malhotra,Sales,Engineer,Full-time,Non-binary,26,Pune,2024-01-11,,530314,E0084,Active
+E0403,Harsh Jain,Sales,Engineer,Full-time,Female,23,Chandigarh,2020-12-18,,1097824,E0041,Terminated
+E0404,Deepak Arora,Product,Analyst,Full-time,Prefer not to say,51,Hyderabad,2021-11-19,,320033,,Active
+E0405,Monika Shah,Marketing,Team Lead,Full-time,Male,42,Noida,2020-12-12,,449523,E0080,Active
+E0406,Parth Chatterjee,Engineering,Associate,Full-time,Prefer not to say,55,Bengaluru,2024-11-29,,1216592,E0037,Active
+E0407,Ibrahim Bisht,HR,Coordinator,Contract,Male,39,Chandigarh,2022-02-17,,1316832,E0309,Active
+E0408,Ritu Bansal,Operations,Associate,Full-time,Prefer not to say,42,Pune,2026-01-13,,542158,E0172,Active
+E0409,Pooja Tiwari,Sales,Manager,Full-time,Non-binary,51,Bengaluru,2021-11-02,,591807,E0388,On Leave
+E0410,Anjali Tripathi,Product,Analyst,Full-time,Non-binary,29,Pune,2024-08-14,,1714621,E0373,Active
+E0411,Radhika Saxena,HR,Coordinator,Full-time,Prefer not to say,50,Chandigarh,2026-06-18,,382547,E0275,Active
+E0412,Mansi Saxena,Product,Team Lead,Full-time,Female,22,Bengaluru,2023-12-02,2024-11-27,372923,E0114,Terminated
+E0413,Lakshmi Pandey,Engineering,Coordinator,Full-time,Female,46,Chandigarh,2023-05-06,,588317,E0100,Active
+E0414,Fatima Das,Sales,Team Lead,Full-time,Prefer not to say,29,Noida,2020-09-10,,868959,E0296,Active
+E0415,Isha Bose,Engineering,Senior Analyst,Part-time,Male,43,Dehradun,2022-12-04,,1094107,E0396,Active
+E0416,Diya Saxena,Sales,Specialist,Full-time,Female,29,Chandigarh,2023-10-24,,532781,E0020,Terminated
+E0417,Shweta Tripathi,Finance,Analyst,Full-time,Male,43,Noida,2026-08-17,,428924,E0290,Active
+E0418,Sneha Dubey,Operations,Engineer,Part-time,Non-binary,23,Mumbai,2024-10-14,,586585,E0125,Active
+E0419,Shivani Patel,Finance,Senior Engineer,Full-time,Male,42,Delhi,2025-01-10,,569041,E0230,Active
+E0420,Aanya Saxena,Sales,Manager,Full-time,Male,56,Delhi,2021-09-14,,365105,E0337,Terminated
+E0421,Monika Pillai,Sales,Analyst,Full-time,Non-binary,42,Noida,2020-08-11,,1016013,E0145,Active
+E0422,Anushka Sethi,Customer Success,Team Lead,Full-time,Non-binary,21,Pune,2020-02-20,,1690381,,Active
+E0423,Lakshmi Nair,Customer Success,Coordinator,Full-time,Prefer not to say,54,Hyderabad,2024-02-28,2026-07-05,1587634,E0084,Terminated
+E0424,Simran Bansal,Engineering,Engineer,Full-time,Male,35,Pune,2025-03-29,2026-01-04,421992,,Terminated
+E0425,Tara Mehta,HR,Engineer,Contract,Male,56,Pune,2021-06-27,,322915,,Active
+E0426,Shreya Mishra,Engineering,Director,Full-time,Prefer not to say,25,Noida,2020-05-08,,1134737,E0106,Active
+E0427,Madhav Menon,HR,Senior Analyst,Full-time,Male,44,Chandigarh,2025-05-30,2025-10-10,448037,E0066,Terminated
+E0428,Simran Sinha,Product,Manager,Full-time,Non-binary,40,Mumbai,2026-08-28,,903900,E0041,Active
+E0429,Rakesh Mukherjee,Customer Success,Manager,Full-time,Non-binary,36,Noida,2024-02-05,,384344,E0400,On Leave
+E0430,Pranav Sinha,Customer Success,Senior Analyst,Full-time,Prefer not to say,46,Bengaluru,2022-01-10,,354934,E0133,Active
+E0431,Shalini Ghosh,Engineering,Analyst,Part-time,Non-binary,50,Chandigarh,2024-10-25,,654825,E0104,Active
+E0432,Imran Sharma,Engineering,Coordinator,Part-time,Prefer not to say,58,Chandigarh,2023-07-12,,572676,E0206,Active
+E0433,Yamini Agarwal,Sales,Senior Analyst,Full-time,Male,43,Dehradun,2025-11-22,,1607483,E0268,Active
+E0434,Madhav Chatterjee,Sales,Manager,Full-time,Female,28,Pune,2024-05-10,,576769,,Active
+E0435,Rohan Desai,Marketing,Specialist,Full-time,Female,33,Noida,2021-04-09,,1201743,E0213,Active
+E0436,Vikram Rao,Engineering,Manager,Part-time,Male,29,Chandigarh,2022-04-26,2026-06-17,1235985,E0177,Terminated
+E0437,Ira Dubey,Engineering,Senior Analyst,Part-time,Non-binary,41,Delhi,2021-08-06,,1050210,,Active
+E0438,Pallavi Nair,Engineering,Engineer,Full-time,Female,44,Pune,2021-04-02,,594365,E0015,Active
+E0439,Nandini Rao,HR,Specialist,Full-time,Prefer not to say,51,Dehradun,2023-04-23,,336152,,Active
+E0440,Diya Nair,Finance,Specialist,Full-time,Prefer not to say,26,Delhi,2021-10-12,,1092337,E0264,Terminated
+E0441,Zoya Chauhan,Marketing,Team Lead,Full-time,Prefer not to say,31,Mumbai,2021-09-23,2024-05-23,904722,E0337,Terminated
+E0442,Varun Bose,Sales,Specialist,Full-time,Prefer not to say,23,Pune,2026-05-30,,570307,E0248,Active
+E0443,Ayesha Sharma,Operations,Director,Full-time,Female,54,Noida,2023-01-08,,808466,E0165,Active
+E0444,Varun Sethi,Finance,Senior Analyst,Contract,Prefer not to say,52,Pune,2023-12-09,2026-04-09,572659,E0278,Terminated
+E0445,Pranav Menon,Sales,Director,Full-time,Female,29,Delhi,2021-11-24,,668760,E0148,Active
+E0446,Sneha Sethi,Engineering,Senior Analyst,Full-time,Prefer not to say,31,Mumbai,2026-05-06,2026-07-23,1061001,E0056,Terminated
+E0447,Sneha Banerjee,Product,Coordinator,Full-time,Non-binary,39,Noida,2025-06-23,,787438,E0201,Active
+E0448,Rajesh Mishra,Marketing,Analyst,Full-time,Male,27,Delhi,2022-07-15,,1013321,E0292,Active
+E0449,Mansi Mishra,Sales,Senior Analyst,Full-time,Male,55,Dehradun,2026-05-29,2026-09-21,777277,E0415,Terminated
+E0450,Kunal Pawar,HR,Engineer,Full-time,Female,22,Pune,2020-02-07,2026-05-21,339069,,Terminated
+E0451,Shivani Singh,Marketing,Specialist,Part-time,Female,36,Mumbai,2021-08-01,2023-09-28,1669775,E0408,Terminated
+E0452,Dev Chopra,Finance,Senior Analyst,Full-time,Non-binary,21,Mumbai,2021-04-24,,600432,E0087,Active
+E0453,Nikhil Jain,Operations,Coordinator,Full-time,Non-binary,34,Dehradun,2021-12-06,,1597969,E0269,Active
+E0454,Nisha Khanna,Marketing,Director,Full-time,Male,28,Chandigarh,2022-09-05,,963289,E0450,Active
+E0455,Shalini Tiwari,Sales,Manager,Full-time,Prefer not to say,53,Hyderabad,2020-05-22,,357155,,Terminated
+E0456,Siddharth Kashyap,Sales,Specialist,Full-time,Male,54,Pune,2022-11-28,,1091413,E0036,Active
+E0457,Abhishek Kapoor,HR,Senior Engineer,Contract,Female,24,Mumbai,2020-09-19,,1039816,E0057,Active
+E0458,Suresh Pandey,Engineering,Senior Engineer,Contract,Prefer not to say,41,Hyderabad,2022-12-06,,1710719,E0422,Active
+E0459,Rakesh Tiwari,Sales,Associate,Full-time,Prefer not to say,44,Mumbai,2025-07-14,,760915,E0249,Active
+E0460,Dev Nair,Engineering,Senior Analyst,Full-time,Female,47,Delhi,2023-11-16,,962936,,Terminated
+E0461,Ananya Yadav,Sales,Associate,Full-time,Prefer not to say,47,Chandigarh,2021-12-29,,508928,,Active
+E0462,Anushka Jain,Operations,Engineer,Contract,Non-binary,30,Pune,2020-03-02,,799323,E0322,Terminated
+E0463,Varun Das,Marketing,Director,Full-time,Male,30,Delhi,2025-12-03,,1018621,E0134,Active
+E0464,Aditi Tiwari,Customer Success,Coordinator,Full-time,Female,44,Chandigarh,2026-07-20,,1474453,,Terminated
+E0465,Sanjay Shetty,Customer Success,Senior Engineer,Full-time,Male,34,Bengaluru,2024-10-26,,1055583,E0142,Active
+E0466,Pranav Dubey,Marketing,Analyst,Contract,Prefer not to say,38,Dehradun,2023-12-19,,384328,E0144,Active
+E0467,Sneha Thakur,Customer Success,Senior Engineer,Full-time,Prefer not to say,56,Chandigarh,2020-12-31,,1125239,E0310,Active
+E0468,Aanya Mishra,Customer Success,Analyst,Full-time,Non-binary,34,Noida,2026-04-13,,582221,,Active
+E0469,Rohan Menon,Customer Success,Analyst,Full-time,Prefer not to say,28,Delhi,2025-06-09,,821755,E0267,Active
+E0470,Riya Singh,Customer Success,Manager,Full-time,Female,31,Pune,2020-08-25,,764948,E0322,Active
+E0471,Aditi Chopra,Customer Success,Manager,Full-time,Female,56,Delhi,2022-04-07,,1335166,E0299,Active
+E0472,Akash Sinha,Engineering,Manager,Full-time,Male,49,Hyderabad,2020-07-14,,855605,E0178,Active
+E0473,Imran Das,Engineering,Senior Engineer,Full-time,Prefer not to say,46,Noida,2021-05-03,,592905,E0336,Active
+E0474,Vivaan Rawat,Sales,Associate,Full-time,Male,32,Dehradun,2023-12-07,,409055,E0094,On Leave
+E0475,Sanjay Tripathi,Finance,Analyst,Full-time,Male,24,Bengaluru,2025-04-28,,730911,,Active
+E0476,Shivani Dubey,Engineering,Coordinator,Contract,Male,37,Mumbai,2026-07-02,,585361,E0422,Active
+E0477,Tanvi Jain,Sales,Analyst,Full-time,Prefer not to say,31,Hyderabad,2025-08-22,,420287,E0191,Active
+E0478,Mohit Mehta,HR,Specialist,Full-time,Prefer not to say,21,Noida,2021-09-03,,445835,E0032,Active
+E0479,Kunal Kapoor,Engineering,Analyst,Full-time,Female,32,Mumbai,2023-09-08,,523881,E0431,Active
+E0480,Ritu Malhotra,Finance,Senior Engineer,Full-time,Female,53,Noida,2022-07-08,,746592,E0344,Active
+E0481,Bhavna Nair,Finance,Associate,Full-time,Female,28,Mumbai,2026-09-16,,526906,E0227,Active
+E0482,Anushka Kohli,Engineering,Director,Contract,Prefer not to say,36,Mumbai,2024-01-16,,361053,E0082,Active
+E0483,Shweta Iyer,Customer Success,Associate,Full-time,Male,44,Mumbai,2021-08-16,,740661,E0321,Active
+E0484,Yash Kulkarni,Product,Coordinator,Full-time,Non-binary,29,Bengaluru,2022-02-07,2024-01-24,1247833,E0210,Terminated
+E0485,Riya Kulkarni,Operations,Associate,Full-time,Non-binary,47,Chandigarh,2022-10-10,,1069855,,Active
+E0486,Shivani Pawar,Finance,Senior Analyst,Part-time,Prefer not to say,57,Noida,2020-09-12,,771180,E0313,Terminated
+E0487,Kavya Bose,Sales,Coordinator,Full-time,Non-binary,28,Delhi,2024-04-12,,418209,E0128,Active
+E0488,Aanya Kulkarni,Sales,Senior Engineer,Full-time,Female,25,Pune,2020-03-23,,1067492,E0042,Active
+E0489,Madhav Kumar,Marketing,Manager,Full-time,Prefer not to say,22,Noida,2023-05-01,,460161,E0088,Active
+E0490,Nikhil Iyer,Engineering,Analyst,Full-time,Prefer not to say,35,Bengaluru,2021-04-22,,1707333,E0170,Active
+E0491,Madhav Kulkarni,Sales,Senior Engineer,Full-time,Male,38,Delhi,2024-06-21,2026-03-24,954441,E0289,Terminated
+E0492,Riya Chopra,Product,Associate,Full-time,Non-binary,43,Hyderabad,2025-03-07,,1528991,E0053,Active
+E0493,Anushka Tripathi,HR,Senior Analyst,Full-time,Male,22,Pune,2024-09-23,,1756429,E0403,Active
+E0494,Amit Rawat,Sales,Team Lead,Full-time,Prefer not to say,36,Chandigarh,2024-01-12,,1238707,E0396,Active
+E0495,Chirag Desai,Marketing,Manager,Contract,Prefer not to say,47,Dehradun,2026-05-18,,1205794,E0386,Active
+E0496,Shreya Thakur,Operations,Engineer,Full-time,Non-binary,25,Bengaluru,2023-02-24,,520946,,Active
+E0497,Divya Negi,Finance,Senior Engineer,Full-time,Prefer not to say,26,Noida,2022-03-14,,1664699,E0476,Active
+E0498,Kavya Khanna,Finance,Senior Analyst,Full-time,Prefer not to say,56,Bengaluru,2023-06-23,,1274803,E0249,Active
+E0499,Samar Singh,Product,Team Lead,Full-time,Female,30,Hyderabad,2024-09-17,,1236284,E0003,Terminated
+E0500,Lakshmi Rawat,Customer Success,Senior Analyst,Full-time,Female,48,Delhi,2022-02-15,,550898,E0207,Active
+E0501,Simran Ghosh,Engineering,Analyst,Full-time,Male,22,Delhi,2021-08-08,,1614069,E0452,Active
+E0502,Priya Chatterjee,Sales,Team Lead,Full-time,Non-binary,47,Hyderabad,2021-05-31,,466944,,Active
+E0503,Harsh Dubey,Engineering,Engineer,Full-time,Male,54,Pune,2020-03-10,,594677,E0144,Active
+E0504,Harsh Mukherjee,Sales,Senior Engineer,Full-time,Prefer not to say,23,Bengaluru,2020-12-02,,633648,E0115,Active
+E0505,Imran Chatterjee,Sales,Team Lead,Full-time,Prefer not to say,33,Bengaluru,2022-08-29,,1067569,E0161,Active
+E0506,Payal Reddy,Product,Specialist,Full-time,Male,57,Chandigarh,2025-08-03,,841590,E0221,Active
+E0507,Deepak Kapoor,Customer Success,Coordinator,Full-time,Prefer not to say,52,Chandigarh,2023-03-18,2026-05-08,560837,E0401,Terminated
+E0508,Zoya Joshi,Sales,Analyst,Full-time,Prefer not to say,21,Delhi,2025-03-25,,327866,E0055,Terminated
+E0509,Ritika Gupta,Product,Senior Analyst,Full-time,Female,45,Chandigarh,2020-08-14,,1158069,E0384,Active
+E0510,Abhishek Bose,Marketing,Coordinator,Full-time,Female,57,Mumbai,2025-05-27,2025-11-19,746819,E0366,Terminated
+E0511,Rahul Kapoor,Product,Analyst,Full-time,Male,32,Chandigarh,2025-09-25,,861577,E0365,Active
+E0512,Vikram Desai,Customer Success,Manager,Full-time,Male,38,Hyderabad,2020-03-17,,337605,E0314,Active
+E0513,Suresh Menon,Marketing,Manager,Full-time,Female,54,Delhi,2023-06-04,,1547808,E0199,Active
+E0514,Ritu Saxena,Customer Success,Senior Analyst,Full-time,Prefer not to say,31,Mumbai,2021-03-23,2025-03-16,343739,E0318,Terminated
+E0515,Karthik Menon,Engineering,Team Lead,Full-time,Prefer not to say,53,Delhi,2022-02-01,,1068554,,Active
+E0516,Ayesha Rao,Operations,Coordinator,Contract,Male,41,Hyderabad,2021-10-10,,1065173,E0044,Active
+E0517,Chirag Kapoor,Marketing,Manager,Full-time,Non-binary,23,Dehradun,2024-03-15,,328457,,Active
+E0518,Nikhil Arora,Finance,Analyst,Full-time,Non-binary,30,Delhi,2024-08-26,,407117,E0229,Active
+E0519,Abhishek Pillai,Sales,Team Lead,Full-time,Non-binary,48,Bengaluru,2025-02-12,,815572,E0463,Active
+E0520,Aditi Mishra,Product,Engineer,Full-time,Female,35,Hyderabad,2020-11-21,,1310555,E0390,On Leave

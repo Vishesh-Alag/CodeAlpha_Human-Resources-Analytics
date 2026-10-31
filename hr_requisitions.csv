@@ -1,0 +1,91 @@
+RequisitionID,Department,JobTitle,OpenDate,TargetFillDate,PositionsRequested,RequisitionStatus,Reason,PrimarySource,HiringManagerName,RecruiterName
+RQ0001,Finance,Team Lead,2026-05-02,2026-08-09,4,Filled,Growth,Job Portal,Ishaan Menon 797,Ritu Chatterjee 208
+RQ0002,Customer Success,Senior Engineer,2024-07-06,2024-08-05,4,Filled,Growth,LinkedIn,Sakshi Singh 867,Swati Tiwari 517
+RQ0003,Engineering,Senior Engineer,2025-08-14,2025-10-19,1,Filled,Replacement,Referral,Saurabh Bose 542,Omar Sinha 565
+RQ0004,Sales,Director,2026-05-11,2026-07-06,4,Filled,New Project,Referral,Abhishek Tripathi 119,Ishaan Mehta 686
+RQ0005,Marketing,Analyst,2025-02-07,2025-03-25,1,Filled,Replacement,Referral,Kavya Verma 436,Ritu Khanna 815
+RQ0006,Finance,Coordinator,2024-05-02,2024-08-09,2,Filled,Growth,Campus,Siddharth Menon 391,Shalini Patel 956
+RQ0007,Finance,Specialist,2024-12-11,2025-02-02,3,On Hold,New Project,Referral,Tara Verma 365,Juhi Verma 437
+RQ0008,Operations,Associate,2024-05-02,2024-07-28,2,Filled,New Project,Job Portal,Varun Kashyap 703,Shweta Bose 937
+RQ0009,Marketing,Specialist,2025-05-01,2025-06-23,3,Filled,New Project,LinkedIn,Anirudh Menon 694,Anirudh Chauhan 562
+RQ0010,Engineering,Senior Engineer,2026-07-30,2026-10-04,1,Cancelled,New Project,Campus,Diya Thakur 734,Rohan Menon 814
+RQ0011,HR,Associate,2026-01-19,2026-02-16,3,Open,Replacement,Job Portal,Omar Kohli 917,Pooja Pawar 957
+RQ0012,Finance,Coordinator,2025-02-08,2025-03-28,1,Open,Replacement,Agency,Sara Negi 677,Simran Iyer 188
+RQ0013,Product,Director,2025-01-22,2025-04-01,4,Filled,Replacement,Referral,Aditya Kohli 983,Aarav Sharma 445
+RQ0014,Finance,Director,2026-08-03,2026-08-26,4,Filled,Growth,Referral,Anirudh Pillai 711,Anushka Nair 926
+RQ0015,Customer Success,Specialist,2025-05-14,2025-08-14,4,Filled,New Project,Campus,Suresh Dubey 119,Saurabh Yadav 619
+RQ0016,Engineering,Manager,2026-09-08,2026-11-10,4,On Hold,Replacement,Referral,Anushka Gupta 152,Vivaan Thakur 197
+RQ0017,Finance,Analyst,2026-09-07,2026-10-24,1,Open,Replacement,LinkedIn,Nisha Chauhan 747,Divya Sharma 352
+RQ0018,Operations,Senior Analyst,2025-07-19,2025-09-09,2,Filled,Replacement,Campus,Shivani Mehta 964,Rahul Iyer 748
+RQ0019,Operations,Manager,2024-01-28,2024-03-08,4,Filled,Replacement,LinkedIn,Imran Mehta 700,Madhav Kulkarni 777
+RQ0020,Marketing,Analyst,2025-05-05,2025-06-04,4,Filled,Growth,Job Portal,Nandini Joshi 961,Anushka Sethi 275
+RQ0021,Engineering,Specialist,2025-01-19,2025-04-20,2,Filled,Replacement,Campus,Kabir Mehta 238,Siddharth Sinha 124
+RQ0022,Customer Success,Associate,2026-01-11,2026-03-27,2,On Hold,Growth,Job Portal,Nikhil Tripathi 979,Akash Rao 619
+RQ0023,Operations,Analyst,2024-11-18,2024-12-28,2,Filled,Replacement,Referral,Nikhil Mukherjee 582,Rajesh Sinha 682
+RQ0024,Operations,Specialist,2024-09-11,2024-10-02,4,On Hold,Replacement,Job Portal,Gaurav Pillai 163,Vivek Kapoor 752
+RQ0025,Operations,Senior Engineer,2026-06-13,2026-07-20,3,On Hold,Growth,Campus,Suresh Nair 305,Rahul Bansal 330
+RQ0026,HR,Team Lead,2025-07-24,2025-08-27,1,Open,Growth,Campus,Priya Mishra 932,Nisha Kohli 162
+RQ0027,Engineering,Director,2025-03-31,2025-06-19,2,Filled,New Project,Referral,Isha Tiwari 714,Meera Khanna 192
+RQ0028,Finance,Associate,2025-06-26,2025-09-14,4,Filled,New Project,LinkedIn,Rohan Malhotra 540,Naveen Iyer 862
+RQ0029,Customer Success,Director,2024-07-15,2024-10-06,2,Open,Replacement,LinkedIn,Tanvi Dubey 283,Mohit Arora 967
+RQ0030,HR,Director,2025-10-01,2025-11-29,1,On Hold,Replacement,LinkedIn,Zoya Rao 861,Radhika Pandey 542
+RQ0031,HR,Coordinator,2024-09-14,2024-11-19,2,Filled,New Project,LinkedIn,Diya Tripathi 962,Aditi Bhatia 596
+RQ0032,Operations,Specialist,2024-04-17,2024-06-06,4,Filled,Growth,Job Portal,Ayesha Arora 344,Farhan Arora 518
+RQ0033,Sales,Coordinator,2026-06-14,2026-09-16,1,Cancelled,New Project,Job Portal,Shweta Tripathi 367,Isha Ghosh 382
+RQ0034,Finance,Senior Analyst,2026-08-04,2026-09-20,3,Filled,Growth,Job Portal,Karthik Tripathi 311,Samar Chauhan 957
+RQ0035,Engineering,Team Lead,2025-12-25,2026-01-15,2,Filled,New Project,LinkedIn,Amit Dubey 167,Nikhil Chopra 519
+RQ0036,Marketing,Director,2025-04-08,2025-05-05,3,Filled,New Project,Agency,Fatima Rao 191,Kunal Tripathi 113
+RQ0037,Marketing,Senior Analyst,2025-09-28,2025-11-30,4,Open,Growth,Referral,Isha Bisht 653,Mansi Verma 543
+RQ0038,Product,Coordinator,2025-11-14,2025-12-12,3,Filled,New Project,Agency,Ankit Rao 217,Ritika Pillai 406
+RQ0039,Customer Success,Director,2025-05-18,2025-08-15,3,Filled,Growth,Referral,Sneha Kashyap 136,Shalini Pawar 103
+RQ0040,Marketing,Senior Analyst,2025-09-05,2025-10-09,4,Filled,Replacement,Job Portal,Pooja Chopra 534,Isha Bisht 597
+RQ0041,Operations,Analyst,2024-06-15,2024-08-11,3,On Hold,Growth,Campus,Ibrahim Gupta 525,Aarav Agarwal 924
+RQ0042,Engineering,Team Lead,2024-11-07,2025-02-03,4,Filled,New Project,Agency,Mansi Shah 831,Neha Singh 147
+RQ0043,Product,Coordinator,2026-04-14,2026-05-21,1,Filled,Growth,Referral,Pranav Banerjee 932,Naveen Negi 357
+RQ0044,Sales,Senior Engineer,2024-01-15,2024-03-19,2,Filled,New Project,Campus,Ananya Kumar 588,Samar Negi 690
+RQ0045,HR,Engineer,2025-10-27,2025-11-29,1,Filled,New Project,Job Portal,Aman Das 208,Ibrahim Nair 568
+RQ0046,Operations,Senior Engineer,2025-07-25,2025-10-07,4,Filled,New Project,Agency,Ritika Mishra 248,Parth Kohli 190
+RQ0047,Engineering,Coordinator,2025-07-06,2025-09-05,3,Open,New Project,Referral,Tanvi Pawar 234,Sakshi Joshi 795
+RQ0048,Operations,Associate,2025-09-15,2025-11-14,4,Open,Growth,Job Portal,Deepak Saxena 252,Samar Menon 652
+RQ0049,HR,Analyst,2024-06-26,2024-08-24,3,On Hold,New Project,Campus,Nisha Tiwari 617,Ananya Sinha 908
+RQ0050,HR,Manager,2026-02-06,2026-05-06,1,Open,Growth,LinkedIn,Simran Kapoor 854,Aditi Negi 506
+RQ0051,Customer Success,Coordinator,2025-08-16,2025-11-10,2,Open,New Project,Campus,Naveen Negi 629,Yash Pandey 340
+RQ0052,Finance,Manager,2024-10-02,2024-12-26,4,Open,Growth,LinkedIn,Shreya Saxena 624,Vivek Chopra 230
+RQ0053,Sales,Team Lead,2025-11-18,2026-02-12,4,Open,New Project,Job Portal,Mansi Tiwari 905,Aditi Bansal 383
+RQ0054,Marketing,Senior Analyst,2024-01-28,2024-04-17,1,Filled,Growth,LinkedIn,Chirag Malhotra 128,Pooja Singh 245
+RQ0055,Operations,Manager,2024-03-07,2024-06-09,3,Filled,Replacement,LinkedIn,Arjun Verma 696,Aarohi Arora 262
+RQ0056,Sales,Coordinator,2025-12-30,2026-02-05,2,Filled,Replacement,Referral,Harsh Agarwal 898,Neha Joshi 814
+RQ0057,Engineering,Team Lead,2024-04-27,2024-05-20,2,Filled,Replacement,LinkedIn,Vikram Pillai 579,Ankit Kashyap 474
+RQ0058,Sales,Coordinator,2025-06-01,2025-08-02,1,Filled,Growth,LinkedIn,Abhishek Bisht 232,Siddharth Kashyap 252
+RQ0059,Product,Team Lead,2025-12-08,2026-02-16,1,Open,Growth,Job Portal,Pallavi Sinha 735,Varun Kapoor 265
+RQ0060,HR,Engineer,2025-03-05,2025-05-30,3,Filled,Growth,Job Portal,Sakshi Banerjee 507,Diya Mehta 494
+RQ0061,Finance,Senior Analyst,2024-06-29,2024-08-15,2,Filled,Growth,LinkedIn,Imran Khanna 227,Varun Arora 744
+RQ0062,Customer Success,Manager,2025-12-30,2026-02-13,1,Filled,New Project,Referral,Varun Shetty 500,Kunal Bose 385
+RQ0063,Marketing,Team Lead,2024-11-04,2025-01-10,1,On Hold,New Project,Job Portal,Farhan Banerjee 124,Priya Khanna 532
+RQ0064,Sales,Team Lead,2025-02-08,2025-03-25,1,Filled,Growth,LinkedIn,Samar Sharma 363,Ritu Sethi 847
+RQ0065,HR,Associate,2025-09-08,2025-12-05,2,Filled,Growth,Referral,Gaurav Agarwal 972,Madhav Shah 159
+RQ0066,Sales,Engineer,2024-05-25,2024-06-23,3,Open,Replacement,Campus,Nikhil Mishra 640,Meera Agarwal 159
+RQ0067,Sales,Specialist,2025-05-01,2025-07-18,3,Filled,New Project,Agency,Omar Saxena 869,Sakshi Nair 671
+RQ0068,Marketing,Manager,2026-07-23,2026-08-24,2,Filled,New Project,Campus,Kunal Thakur 442,Fatima Joshi 266
+RQ0069,Engineering,Coordinator,2026-08-30,2026-10-04,4,Filled,New Project,Campus,Suresh Mishra 552,Madhav Shah 656
+RQ0070,Customer Success,Analyst,2026-05-31,2026-07-11,1,Filled,Replacement,Referral,Karthik Sethi 100,Varun Mishra 405
+RQ0071,Product,Senior Engineer,2026-06-16,2026-08-28,3,Filled,Replacement,Referral,Tara Pandey 730,Isha Mishra 908
+RQ0072,Marketing,Senior Analyst,2026-03-04,2026-06-11,2,Filled,Growth,Referral,Rahul Joshi 550,Vikram Kashyap 262
+RQ0073,Engineering,Associate,2025-01-11,2025-03-01,1,Open,New Project,Job Portal,Nandini Bisht 722,Diya Sinha 135
+RQ0074,Product,Director,2026-02-24,2026-04-11,3,On Hold,Growth,Job Portal,Ritika Yadav 334,Rakesh Ghosh 429
+RQ0075,Finance,Director,2025-11-14,2025-12-26,2,On Hold,Replacement,LinkedIn,Rahul Reddy 621,Rakesh Rao 843
+RQ0076,Finance,Senior Engineer,2024-06-12,2024-07-04,4,Cancelled,Growth,Referral,Aditya Gupta 542,Ritika Pawar 908
+RQ0077,Engineering,Senior Analyst,2026-02-03,2026-04-24,1,Filled,Growth,Campus,Ankit Kapoor 418,Shweta Pillai 320
+RQ0078,HR,Coordinator,2026-07-21,2026-09-21,4,On Hold,New Project,Agency,Rakesh Sharma 623,Farhan Mehta 982
+RQ0079,Marketing,Coordinator,2026-08-09,2026-10-25,4,Filled,New Project,Agency,Sanjay Yadav 916,Sakshi Gupta 337
+RQ0080,Sales,Team Lead,2025-07-09,2025-09-23,1,On Hold,New Project,Campus,Ishaan Sethi 647,Ibrahim Sinha 950
+RQ0081,Marketing,Manager,2026-08-17,2026-11-17,1,Open,Growth,Agency,Sara Patel 560,Ira Tiwari 891
+RQ0082,Marketing,Manager,2024-11-26,2025-02-23,1,Open,Replacement,LinkedIn,Aditi Thakur 385,Harsh Kulkarni 258
+RQ0083,Operations,Director,2024-10-29,2024-11-20,3,Filled,New Project,Agency,Sneha Mehta 566,Yamini Singh 640
+RQ0084,Operations,Director,2026-01-04,2026-04-02,3,Filled,Growth,Referral,Rajesh Saxena 775,Aman Jain 792
+RQ0085,Customer Success,Associate,2024-07-31,2024-09-18,3,On Hold,New Project,Job Portal,Saurabh Sharma 803,Payal Bisht 875
+RQ0086,Engineering,Manager,2024-12-21,2025-02-15,1,Filled,New Project,Job Portal,Reyansh Bisht 255,Ritika Patel 142
+RQ0087,Customer Success,Team Lead,2025-07-16,2025-10-04,1,Filled,Replacement,LinkedIn,Shweta Negi 174,Rajesh Malhotra 642
+RQ0088,Product,Engineer,2024-07-26,2024-09-11,4,Filled,Replacement,Job Portal,Nikhil Bansal 461,Anjali Menon 666
+RQ0089,Operations,Specialist,2024-07-31,2024-10-18,4,Filled,New Project,Agency,Rohan Arora 226,Ishaan Chauhan 213
+RQ0090,Product,Senior Engineer,2026-02-12,2026-03-17,1,Filled,Growth,Campus,Siddharth Chopra 242,Zoya Bhatia 533
