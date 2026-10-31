@@ -1,3 +1,7 @@
+
+<img width="1445" height="807" alt="image" src="https://github.com/user-attachments/assets/bf2ca892-e481-4188-8842-6e90f5b4c422" />
+
+
 # CodeAlpha HR Analytics Dashboard (Power BI)
 
 A three-page HR analytics report built in Power BI Desktop for the
@@ -387,7 +391,7 @@ RETURN
 It was not used in the final dashboard layout. It may show blank if one
 of the latest two calendar months has no satisfaction records.
 
-### D. Playbook measures available for the HR task but not confirmed as separately used
+### D. Measures available for the HR task 
 
 These were listed in the project playbook. Include them in the PBIX only
 if you actually created them; the dashboard can use equivalent implicit
@@ -483,6 +487,4 @@ codealpha-hr-analytics/
     └── CodeAlpha_HR_Analytics.pbix
 ```
 
-Add screenshots and the PBIX file yourself before publishing. Do not
-commit private or licensed data. If using the CodeAlpha synthetic files,
-label them clearly as synthetic.
+
