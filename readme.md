@@ -8,10 +8,9 @@
 
 
 
-# CodeAlpha HR Analytics Dashboard (Power BI)
+# HR Analytics Dashboard (Power BI)
 
-A three-page HR analytics report built in Power BI Desktop for the
-CodeAlpha internship task. The report uses synthetic HR data and focuses
+A three-page HR analytics report built in Power BI Desktop. The report uses synthetic HR data and focuses
 on workforce overview, recruitment and hiring, and people
 insights/hiring outlook.
 
