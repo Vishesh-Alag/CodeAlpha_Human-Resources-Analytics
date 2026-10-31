@@ -1,6 +1,12 @@
 
 <img width="1445" height="807" alt="image" src="https://github.com/user-attachments/assets/bf2ca892-e481-4188-8842-6e90f5b4c422" />
 
+<img width="1427" height="782" alt="image" src="https://github.com/user-attachments/assets/592389d0-59ed-4083-b149-f631d85e7aca" />
+
+<img width="1437" height="790" alt="image" src="https://github.com/user-attachments/assets/31c77f05-49ae-4d07-8c6f-652250eddd44" />
+
+
+
 
 # CodeAlpha HR Analytics Dashboard (Power BI)
 
