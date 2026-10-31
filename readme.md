@@ -477,20 +477,5 @@ standardized monthly turnover rate.
     `TODAY()`-based deadline status.
 5.  Save and publish only if permitted by the internship requirements.
 
-## Suggested repository structure
-
-``` text
-codealpha-hr-analytics/
-├── README.md
-├── docs/
-│   └── HR_Project_Summary.md
-├── screenshots/
-│   ├── page-1-workforce-overview.png
-│   ├── page-2-recruitment-hiring.png
-│   └── page-3-people-insights.png
-├── data/                 # Optional: synthetic CSVs, if redistribution is permitted
-└── powerbi/
-    └── CodeAlpha_HR_Analytics.pbix
-```
 
 
